@@ -2,6 +2,9 @@
 
 ## Version 0.5.8 (15/01/2024)
 * Add: Support for Pi5 by GC2
+* Add: Support for CM5, CM5 Lite, Pi 500 / 500+ and CM0 by GC2
+* Add: 16GB memory size
+* Fix: Guard memory size lookup against out-of-range revision codes
 
 ## Version 0.5.7 (04/06/2023)
 * Add: Support for new RPi hardware (Pi400, Pi Zero 2 W, ...) by GC2
